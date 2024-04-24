@@ -1,2 +1,3 @@
-# flight-widget-vanilla-js
-Simple flight widget using only vanilla JS
+# Flight widget
+
+- Simple flight widget using only vanilla JS and dummy data
